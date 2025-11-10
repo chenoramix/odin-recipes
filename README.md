@@ -1,1 +1,1 @@
-# odin-recipes
+Basic webpages of Odin Recipes
